@@ -1,0 +1,28 @@
+JUsing org.netbeans.jemmy.drivers.DefaultDriverInstaller driver installer
+Trace:
+:Start to wait frame "Frame with title "ZeitDiff"" opened
+Trace:
+FFrame "Frame with title "ZeitDiff"" has been opened in 0 milliseconds
+Ø    javax.swing.JFrame[frame0,100,100,350x217,layout=java.awt.BorderLayout,title=ZeitDiff,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,32,344x182,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+Trace:
+?Start to wait action "Wait Any javax.swing.JTextField loaded"
+Trace:
+a"Wait Any javax.swing.JTextField loaded" action has been produced in 1 milliseconds with result 
+—    : javax.swing.JTextField[,180,4,148x26,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@ea2584b,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=0,columnWidth=0,command=,horizontalAlignment=LEADING]
+Trace:
+?Start to wait action "Wait Any javax.swing.JTextField loaded"
+Trace:
+a"Wait Any javax.swing.JTextField loaded" action has been produced in 1 milliseconds with result 
+˜    : javax.swing.JTextField[,180,46,148x26,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@ea2584b,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=0,columnWidth=0,command=,horizontalAlignment=LEADING]
+Trace:
+<Start to wait action "Wait Any javax.swing.JButton loaded"
+Trace:
+^"Wait Any javax.swing.JButton loaded" action has been produced in 1 milliseconds with result 
+ã    : javax.swing.JButton[,16,88,148x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@223cf562,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=differenz berechnen,defaultCapable=true]
+Trace:
+?Start to wait action "Wait Any javax.swing.JTextField loaded"
+Trace:
+a"Wait Any javax.swing.JTextField loaded" action has been produced in 1 milliseconds with result 
+˜    : javax.swing.JTextField[,180,88,148x26,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@ea2584b,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=0,columnWidth=0,command=,horizontalAlignment=LEADING]
+Push button
+â    :javax.swing.JButton[,16,88,148x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@223cf562,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=differenz berechnen,defaultCapable=true]
